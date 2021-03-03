@@ -3,3 +3,7 @@
 ################################################################################
 
 /MediatR-dotnet-demo/ConsoleApp1/bin/Debug/netcoreapp3.1
+/MediatR-dotnet-demo/ConsoleApp1/obj
+/.vs/MediatR-dotnet-demo/v16
+/.vs
+/MediatR-dotnet-demo/.vs/MediatR-dotnet-demo/v16
